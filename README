@@ -1,12 +1,13 @@
 saran
 =====
 
-Recommender System
+Steam game recommender system.
 
 Dataset
 -------
 
-The dataset is taken from the Amazon Reviews'2023 and can be
-found online at:
+The datasets are split onto two, user and game data. You can
+find the complete dataset from Kaggle:
 
-    https://amazon-reviews-2023.github.io/
+    https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset
+    https://www.kaggle.com/datasets/tamber/steam-video-games
